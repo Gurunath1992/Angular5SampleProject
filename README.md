@@ -1,6 +1,17 @@
+
+
 # Ng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+You should have installed the angular-cli installed to build and run this project.
+
+1. Install angular-cli through npm using the command:
+npm install @angular/cli -g
+
+2. Install angular animations:
+npm install @angular/animations@latest --save
+
 
 ## Development server
 
